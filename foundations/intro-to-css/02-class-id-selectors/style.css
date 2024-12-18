@@ -1,0 +1,18 @@
+.oddnumber{
+    background-color: pink;
+    font-family: verdana, sans-serif;
+}
+
+#secondelement{
+    color: rgb(00,00,255);
+    font-size: 36px;
+}
+
+.oddnumber.two{
+    font-size: 24px;
+}
+#fourthelement{
+    background-color: rgb(00,255,00);
+    font-size: 24px;
+    font-weight: bold;
+}
